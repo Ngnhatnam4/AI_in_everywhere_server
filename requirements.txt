@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+aiofiles
+requests
+httpx
+openai
+anthropic
+google-generativeai
+huggingface_hub
+mistralai
+py-cpuinfo
+psutil
+jinja2
+flask
